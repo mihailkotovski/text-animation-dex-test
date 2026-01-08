@@ -1,2 +1,2 @@
-7
+8
 https://github.com/mihailkotovski/text-animation-dex-test/raw/main/text_animation.dex
